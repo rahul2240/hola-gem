@@ -7,6 +7,7 @@ Gem::Specification.new do |s|
   s.authors     = ["Rahul"]
   s.email       = 'rahul2240'
   s.files       = ["lib/hola.rb", "lib/hola/translator.rb"]
+  s.executables << 'hola'
   s.homepage    =
     'http://rubygems.org/gems/hola'
   s.license       = 'MIT'
